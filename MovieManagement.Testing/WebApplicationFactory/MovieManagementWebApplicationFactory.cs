@@ -22,7 +22,7 @@ namespace XTrackIntegrationTest
                     .AddJsonFile("appsettings.Development.json", optional: false, reloadOnChange: true)
                     .Build();
                 
-                var connectionString = configuration.GetConnectionString("DefaultConnection");
+                var connectionString = configuration.GetConnectionString("RP_MovieDb");
 
                 var dbContextDescriptor = services.SingleOrDefault(
                     d => d.ServiceType == typeof(DbContextOptions<MovieManagementDbContext>));

@@ -11,7 +11,7 @@ using MovieManagement.Domain.IServices;
 using MovieManagement.Infrastructure.Context;
 using MovieManagement.Infrastructure.Persistence.Repositories;
 
- namespace MovieManagement.Testing;
+ namespace MovieManagementAPI;
  public class Program
  {
      public static void Main(string[] args)
