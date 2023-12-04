@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0101f928_002D58b3_002D41f0_002Da8b8_002D92da4a19f52b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MoviesControllerIntegrationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1C9C5939-A1DE-4F4C-9282-3736C1D3F1E1::net7.0::MovieManagement.Testing.UnitTest1.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1C9C5939-A1DE-4F4C-9282-3736C1D3F1E1::net7.0::MovieManagement.Testing.Controllers.MoviesTest.GetMoviesMustReturnCurrentValues&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1C9C5939-A1DE-4F4C-9282-3736C1D3F1E1::net7.0::MovieManagement.Testing.Controllers.MoviesTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

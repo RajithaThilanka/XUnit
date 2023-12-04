@@ -1,0 +1,12 @@
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.deps.json
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\bin\Debug\net7.0\MovieManagement.Domain.pdb
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfoInputs.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.AssemblyInfo.cs
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.csproj.CoreCompileInputs.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\refint\MovieManagement.Domain.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.pdb
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\ref\MovieManagement.Domain.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Domain\obj\Debug\net7.0\MovieManagement.Domain.csproj.AssemblyReference.cache

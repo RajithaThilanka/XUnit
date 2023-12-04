@@ -1,0 +1,446 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Testing\\MovieManagement.Testing.csproj": {}
+  },
+  "projects": {
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\MovieManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\MovieManagement.Application.csproj",
+        "projectName": "MovieManagement.Application",
+        "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\MovieManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\rajit\\.nuget\\packages\\",
+        "outputPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj",
+        "projectName": "MovieManagement.Domain",
+        "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\rajit\\.nuget\\packages\\",
+        "outputPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj",
+        "projectName": "MovieManagement.Infrastructure",
+        "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rajit\\.nuget\\packages\\",
+        "outputPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain\\MovieManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Testing\\MovieManagement.Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Testing\\MovieManagement.Testing.csproj",
+        "projectName": "MovieManagement.Testing",
+        "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Testing\\MovieManagement.Testing.csproj",
+        "packagesPath": "C:\\Users\\rajit\\.nuget\\packages\\",
+        "outputPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj"
+              },
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\MovieManagementAPI.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\MovieManagementAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0-alpha.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\MovieManagementAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\MovieManagementAPI.csproj",
+        "projectName": "MovieManagementAPI",
+        "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\MovieManagementAPI.csproj",
+        "packagesPath": "C:\\Users\\rajit\\.nuget\\packages\\",
+        "outputPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\MovieManagement.Application.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application\\MovieManagement.Application.csproj"
+              },
+              "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure\\MovieManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.34.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[2.15.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "azurefunctions.tokenstore.extension.v1": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

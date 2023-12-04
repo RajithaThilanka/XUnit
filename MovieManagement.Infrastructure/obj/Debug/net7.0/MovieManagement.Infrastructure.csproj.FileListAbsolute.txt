@@ -1,0 +1,17 @@
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.AssemblyInfo.cs
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Infrastructure.deps.json
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Infrastructure.runtimeconfig.json
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Infrastructure.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Infrastructure.pdb
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Domain.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\bin\Debug\net7.0\MovieManagement.Domain.pdb
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.csproj.CopyComplete
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\refint\MovieManagement.Infrastructure.dll
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.pdb
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\MovieManagement.Infrastructure.genruntimeconfig.cache
+D:\My Projects\Dot Net Core Apps\GerericRepositoryApp\MovieManagement.Infrastructure\obj\Debug\net7.0\ref\MovieManagement.Infrastructure.dll

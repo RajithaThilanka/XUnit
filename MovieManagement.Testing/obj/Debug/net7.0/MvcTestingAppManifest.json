@@ -1,0 +1,6 @@
+{
+  "MovieManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Application",
+  "MovieManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Domain",
+  "MovieManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagement.Infrastructure",
+  "MovieManagementAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\My Projects\\Dot Net Core Apps\\GerericRepositoryApp\\MovieManagementAPI"
+}
